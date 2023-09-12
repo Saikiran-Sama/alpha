@@ -1,0 +1,12 @@
+@import url(./nav.css);
+@import url(./section1.css);
+@import url(./section2.css);
+@import url(./section3.css);
+@import url(./section4.css);
+@import url(./footer.css);
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', Arial, sans-serif;;
+}
